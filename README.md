@@ -21,3 +21,10 @@ Clone the repository to your local machine using:
 
 ```bash
 git clone https://github.com/jacob7123/Chingyen_Matrix.git
+
+#Building the Project
+You can compile the project using g++ with the following command:
+```bash
+g++ -o MatrixApp Huang-Chingyen_main.cpp -I. -std=c++11
+
+
